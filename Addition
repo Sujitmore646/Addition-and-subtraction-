@@ -8,7 +8,7 @@ int main()
     cin>>a;
     cout<<"enter the number b"<<endl;
     cin>>b;
-    sum=a+b;
+    sum=a-b;
     cout<<"addition"<<sum<<endl;
 
     return 0;
